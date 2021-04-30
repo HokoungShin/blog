@@ -2,8 +2,8 @@ title:              Rapy Blog
 email:              red926838@gmail.com
 description:        My blog
 author:             Shin Hokyoung
-baseurl:            "https://HokoungShin.github.io/RapyBlog"
-url:                "https://HokoungShin.github.io"
+baseurl:            "/RapyBlog"
+url:                "https://HokoungShin.github.io/"
 
 # Social Profiles
 twitter_username:   신래피
