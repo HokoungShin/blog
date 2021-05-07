@@ -1,4 +1,3 @@
----
 layout: post
 title: "나의 프로필 소개"
 subtitle: "프로필 소개 페이지입니다."
@@ -18,7 +17,11 @@ Propile
 
 fork
 -----
+현재 관심 있는 분야는 없습니다.
 
 
 Github Page Link
+
+
+
 <https://hokoungshin.github.io/blog/>
